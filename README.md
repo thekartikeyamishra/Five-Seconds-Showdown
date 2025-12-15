@@ -139,4 +139,5 @@ Contributions are welcome\! Please follow these steps:
 
 -----
 
-> Built with ❤️ using Flutter & Gemini AI.
+> Built with ❤️ By Kartikeya Mishra.
+
